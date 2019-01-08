@@ -51,6 +51,7 @@ brew install ino
 brew install irssi
 brew install jasper
 brew install jpeg
+brew install jq
 brew install latex2rtf
 brew install libassuan
 brew install libelf
